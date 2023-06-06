@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Contador-de-Clics/static/css/main.acacb9a3.css",
+    "main.js": "/Contador-de-Clics/static/js/main.70d9ef4d.js",
+    "static/media/logo.png": "/Contador-de-Clics/static/media/logo.f6bba688edf8b38b15a8.png",
+    "index.html": "/Contador-de-Clics/index.html",
+    "main.acacb9a3.css.map": "/Contador-de-Clics/static/css/main.acacb9a3.css.map",
+    "main.70d9ef4d.js.map": "/Contador-de-Clics/static/js/main.70d9ef4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acacb9a3.css",
+    "static/js/main.70d9ef4d.js"
+  ]
+}
